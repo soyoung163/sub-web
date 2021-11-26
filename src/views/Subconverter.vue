@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://subconverter.5842008.workers.dev/sub?" }],
+        backendOptions: [{ value: "https://production.subconverter.5842008.workers.dev/sub?" }],
         remoteConfig: [
         {
             label: "ACL4SSR",
